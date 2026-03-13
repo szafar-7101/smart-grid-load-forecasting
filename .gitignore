@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda
+env/
+venv/
+
+# Logs
+logs/
+
+# Artifacts
+artifacts/
+
+# Environment variables
+.env
+
+# Mac files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
