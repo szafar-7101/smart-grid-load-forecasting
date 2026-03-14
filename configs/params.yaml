@@ -1,0 +1,12 @@
+model_training:
+  batch_size: 32
+  epochs: 20
+  learning_rate: 0.001
+
+lstm:
+  units: 64
+  dropout: 0.2
+
+transformer:
+  num_heads: 4
+  feed_forward_dim: 128
